@@ -1,0 +1,3 @@
+yt-dlp[default,curl-cffi]>=2026.10.26
+PySide6>=6.8
+secretstorage>=3.3  # reads Chrome-family browser cookies on Linux
